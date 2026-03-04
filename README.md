@@ -3,7 +3,7 @@
 <h5 align="leftr"> adriaalfonsomedero@gmail.com </h5>
 
 <h3 align="left">About me:</h3>
-Welcome to my GitHub profile! I'm a fourth-year Computer Science at the University of Barcelona. I have a real passion for programming, one of the things I enjoy the most is taking on new challenges and embarking on personal projects. I'm always eager to learn and expand my skills.
+Welcome to my GitHub profile! I have a real passion for programming, one of the things I enjoy the most is taking on new challenges and embarking on personal projects. I'm always eager to learn and expand my skills.
 
 Collaboration is also something that I value greatly, and I find it incredibly rewarding to work in a team. It's always amazing to see how different perspectives can lead to creative solutions and produce amazing results.
 
